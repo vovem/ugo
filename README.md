@@ -1,6 +1,6 @@
 # ugo
 
-The ugo repository has been migrated to this new repo below.
+The repository project has been migrated, please use the link below.
 
 ## GITHUB (https://github.com/vovemdev)
 
